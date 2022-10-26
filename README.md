@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @NosisAtlas
-- I'm a full stack developer I work with different programming languages and frameworks such us JavaScript, PHP, React js, Laravel.
+- 💻 I'm a full stack developer I work with different programming languages and frameworks such us JavaScript, PHP, React js, Laravel.
 - 👀 I’m interested in creating awesome website that solve a real life problems and AI
 - 🌱 I’m currently learning web development
 - 💞️ I’m looking to level up my skills on web applications
